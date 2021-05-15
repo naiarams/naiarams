@@ -8,7 +8,7 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 - 🌱 Aprendendo sobre ciência cidadã, validação de software e pesquisa com mídias interativas.
 - 👯 Colaborando com projetos sociais que atuam na recuparação de dependentes químicos.
 - 🤔 Buscando ajuda no aprendizado de novas tecnologias e linguagens de programação.
-- 💬 Pode me perguntar sobre alguma coisa relacionada ao que estudo. Acredito que com uma boa conversa conseguimos pensar e evoluir juntos.
+- 💬 Pode me perguntar sobre alguma coisa relacionada ao que estudo ou já estudei. Acredito que com uma boa conversa conseguimos pensar e evoluir juntos.
 - 📫 me encontre em: nahms777@gmail.com ou naiarabrasilmarques@gmail.com
 - 😄 Pronouns: ...
 
