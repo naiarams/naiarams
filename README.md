@@ -11,7 +11,7 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 - 💬 Pode me perguntar sobre alguma coisa relacionada ao que estudo ou já estudei. Acredito que com uma boa conversa conseguimos pensar e evoluir juntos.
 - 📫 me encontre em: nahms777@gmail.com ou naiarabrasilmarques@gmail.com
 
-- ⚡ Fato divertido: "Ser profissional de TI é um paraíso na terra. Um passo para ser um bilionário." :wine_glass: :bank: :gem:
+- ⚡ Fato divertido: "Ser profissional de TI é um paraíso na terra. Um passo para ser um bilionário(a)." :wine_glass: :bank: :gem:
 
 
 ## Linguagens de programação:
