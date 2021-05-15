@@ -1,8 +1,8 @@
-### :ribbon: Quem sou eu 👋
+### :ribbon: Quem sou eu:
 
 <!--**naiarams/naiarams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Sou Naiara Marques, brasileira, mineira. Apaixonada por tecnologia e inovação. Iniciei minha jornada na Engenharia de Controle e Automação no CEFET-MG, logo depois transferi para Engenharia Mecatrônica no IF Sudeste-MG. 
+Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação. Iniciei minha jornada na Engenharia de Controle e Automação no CEFET-MG, logo depois transferi para Engenharia Mecatrônica no IF Sudeste-MG e agora estou cursando Engenharia de Software na PUC-MG e design de produto na UEMG. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
