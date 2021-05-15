@@ -13,4 +13,4 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 - 😄 Pronouns: ...
 
 
-- ⚡ Fato divertido: "Ser profissional de TI é um paraíso na terra. Um passo para ser um bilionário." :wine_glass: :bank: 
+- ⚡ Fato divertido: "Ser profissional de TI é um paraíso na terra. Um passo para ser um bilionário." :wine_glass: :bank: :gem:
