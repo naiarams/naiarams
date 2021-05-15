@@ -1,4 +1,4 @@
-### :ribbon: Quem sou eu:
+## :ribbon: Quem sou eu:
 
 <!--**naiarams/naiarams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -23,7 +23,7 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 * R 
 * Assembly 
 
-### Linguas estrangeiras:
+## Linguas estrangeiras:
 
 * Inglês :us: (Leitura, escrita e fala): Avançado
 * Espanhol :es: (Leitura, escrita e fala): Intermediário
