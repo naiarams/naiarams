@@ -1,9 +1,8 @@
-### Hi there 👋
+### :ribbon: Quem sou eu 👋
 
-<!--
-**naiarams/naiarams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**naiarams/naiarams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou Naiara Marques, brasileira, mineira. Apaixonada por tecnologia e inovação. Iniciei minha jornada na Engenharia de Controle e Automação no CEFET-MG, logo depois transferi para Engenharia Mecatrônica no IF Sudeste-MG. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
