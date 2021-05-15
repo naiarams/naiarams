@@ -19,7 +19,7 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 * C e C++
 * Java 
 * Java Script 
-* Phython 
+* Python 
 * R 
 * Assembly 
 
