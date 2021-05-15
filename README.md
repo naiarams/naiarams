@@ -10,7 +10,27 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 - 🤔 Buscando ajuda no aprendizado de novas tecnologias e linguagens de programação.
 - 💬 Pode me perguntar sobre alguma coisa relacionada ao que estudo ou já estudei. Acredito que com uma boa conversa conseguimos pensar e evoluir juntos.
 - 📫 me encontre em: nahms777@gmail.com ou naiarabrasilmarques@gmail.com
-- 😄 Pronouns: ...
-
 
 - ⚡ Fato divertido: "Ser profissional de TI é um paraíso na terra. Um passo para ser um bilionário." :wine_glass: :bank: :gem:
+
+
+### Linguagens de programação:
+
+* C e C++
+* Java 
+* Java Script 
+* Phython 
+* R 
+* Assembly 
+
+### Linguas estrangeiras:
+
+* Inglês (Leitura, escrita e fala): Avançado
+* Espanhol (Leitura, escrita e fala): Intermediário
+
+Aprendendo:
+- Alemão 
+- Italiano
+- Francês
+- Japonês
+- Russo 
