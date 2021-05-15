@@ -4,7 +4,7 @@
 
 Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação. Iniciei minha jornada na Engenharia de Controle e Automação no CEFET-MG, logo depois transferi para Engenharia Mecatrônica no IF Sudeste-MG e agora estou cursando Engenharia de Software na PUC-MG e design de produto na UEMG. Participei de Hackthons para fintechs e bancos, na área de engenharia e medicina no HCUSP, em parceria com o MIT, para promover novas tecnologias na área da saúde. 
 
-- 🔭 Atualmente estou trabalhando com um projeto de pesquisa.
+- :mag_right: Atualmente estou trabalhando com um projeto de pesquisa.
 - 🌱 Aprendendo sobre ciência cidadã, validação de software e pesquisa com mídias interativas.
 - 👯 Colaborando com projetos sociais que atuam na recuparação de dependentes químicos.
 - 🤔 Buscando ajuda no aprendizado de novas tecnologias e linguagens de programação.
