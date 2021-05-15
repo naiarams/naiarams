@@ -25,12 +25,12 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 
 ### Linguas estrangeiras:
 
-* Inglês (Leitura, escrita e fala): Avançado
-* Espanhol (Leitura, escrita e fala): Intermediário
+* Inglês :us: (Leitura, escrita e fala): Avançado
+* Espanhol :es: (Leitura, escrita e fala): Intermediário
 
 Aprendendo:
-- Alemão 
-- Italiano
-- Francês
-- Japonês
-- Russo 
+- Alemão :de:
+- Italiano :it:
+- Francês :fr:
+- Japonês :jp:
+- Russo :ru:
