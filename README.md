@@ -14,7 +14,7 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 - ⚡ Fato divertido: "Ser profissional de TI é um paraíso na terra. Um passo para ser um bilionário(a)." :wine_glass: :bank: :gem:
 
 
-## Linguagens de programação:
+## :computer: Linguagens de programação:
 
 * C e C++
 * Java 
@@ -23,7 +23,7 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 * R 
 * Assembly 
 
-## Linguas estrangeiras:
+## :tongue: Linguas estrangeiras:
 
 * Inglês :us: (Leitura, escrita e fala): Avançado
 * Espanhol :es: (Leitura, escrita e fala): Intermediário
