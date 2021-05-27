@@ -30,7 +30,7 @@ Sou Naiara Marques, brasileira e mineira. Apaixonada por tecnologia e inovação
 
 Aprendendo:
 - Alemão :de:
-- Italiano :it:
 - Francês :fr:
+- Italiano :it:
 - Japonês :jp:
 - Russo :ru:
